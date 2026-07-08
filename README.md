@@ -1,7 +1,7 @@
 
 # 🚀 Algo Diary
 
-Welcome to my coding journal!
+Welcome to my coding journal !
 
 This repository contains my daily solutions to Data Structures & Algorithms and SQL problems as I prepare for Software Engineering interviews.
 
